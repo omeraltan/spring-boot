@@ -1,2 +1,2 @@
 # spring-boot
-Notes to keep while running Spring data
+Notes to keep while running Spring boot
